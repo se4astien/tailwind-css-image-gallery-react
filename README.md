@@ -1,4 +1,4 @@
-## Tailwind CSS Image gallery with React
+## Tailwind CSS Image Gallery with React
 
 Create an app using Tailwind CSS framework for the CSS and React.
 Fetch data through pixabay.com with fetch() and then() method.
